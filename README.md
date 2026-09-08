@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Oghenerukevwe 👋
 
-<!--
-**Oghenerukevwe-Sodje/Oghenerukevwe-Sodje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Healthcare Data Analyst
 
-Here are some ideas to get you started:
+I'm transitioning into healthcare data analysis, combining my background in health and social care and public health with developing skills in data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in using data to understand healthcare operations, patient outcomes and resource use.
+
+## Currently Learning
+
+- SQL
+- Tableau
+- Healthcare analytics
+- Data storytelling
+
+## Areas of Interest
+
+- Healthcare analytics
+- Healthcare operations
+- Business intelligence
+- Patient outcomes
+- Data-driven decision making
+
+## Tools & Technologies
+
+- SQL
+- Tableau
+- PostgreSQL
+
+## Featured Projects
+
+🚧 Portfolio projects coming soon.
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/oghenerukevwesodje)
